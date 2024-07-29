@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...will tell later
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: We learn through our mistakes.
 
 <!---
 Adit3112/Adit3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
