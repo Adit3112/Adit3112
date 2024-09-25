@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Angotra
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JavaScript,php,DSA,github
+- 🌱 I’m currently learning python, java ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...will tell later
 - 😄 Pronouns: ...She/Her
